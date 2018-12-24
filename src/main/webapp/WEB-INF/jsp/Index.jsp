@@ -5,11 +5,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Index</title>
+<link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"
+		rel="stylesheet">
+		
 </head>
 <body>
-<h1>Test ok</h1>
-
-<p>${message}</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-offset-4 col-md-4">
+				<h1>Test ok</h1>
+			</div>
+			<div class="col-md-offset-4 col-md-4">
+				<p>${message}</p>
+			</div>
+		</div>
+	</div>
 
 </body>
+<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
+<script src="webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </html>
