@@ -48,7 +48,7 @@
 		</div>
 		<div align=center>
 			<button style="margin-top: 10px; width: 110px;"
-				class="btn btn-sm btn-primary">S'inscrire</button>
+				class="btn btn-sm btn-primary" onClick="javascript:document.location.href='/register'">S'inscrire</button>
 		</div>
 	</div>
 </body>
