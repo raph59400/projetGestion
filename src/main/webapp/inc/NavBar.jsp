@@ -1,7 +1,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-1 col-sm-1 col-xs-6">
+			<div class="col-md-1 col-sm-1 col-xs-1">
 				<a href="/" style="color: black;"><table
 						style="margin-top: 4px;">
 						<tr>
@@ -14,7 +14,7 @@
 					</table></a>
 			</div>
 
-			<div class="col-md-offset-10 col-sm-offset-9">
+			<div class="col-md-offset-10 col-sm-offset-9 col-xs-offset-5">
 
 				<table
 					style="margin-top: 5px; border-collapse: separate; border-spacing: 5px;">
